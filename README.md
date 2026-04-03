@@ -1,6 +1,6 @@
-# 🛒 Laravel 11 E-Commerce REST API
+# 🛒 Laravel E-Commerce REST API
 
-A production-style **E-Commerce Backend API** built with **Laravel 11, MySQL, Sanctum Authentication, and Role-Based Middleware**.
+A production-style **E-Commerce Backend API** built with **Laravel, MySQL, Sanctum Authentication, and Role-Based Middleware**.
 
 This project simulates a real online store workflow with **customer and admin roles**, including cart management, checkout, stock deduction, and order lifecycle management.
 
@@ -28,7 +28,7 @@ This project simulates a real online store workflow with **customer and admin ro
 ---
 
 ## 🧱 Tech Stack
-- **Laravel 11**
+- **Laravel**
 - **PHP**
 - **MySQL**
 - **Laravel Sanctum**
