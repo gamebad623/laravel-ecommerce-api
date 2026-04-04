@@ -63,3 +63,6 @@ This project simulates a real online store workflow with **customer and admin ro
 - Order status updates
 
 ---
+
+## 👨‍💻 Author
+**Saif Mohamed**
