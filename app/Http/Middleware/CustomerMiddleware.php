@@ -21,5 +21,7 @@ class CustomerMiddleware
                 "message" => "Customers only can use that"
             ], 403);
         }
+
+        return $next($request);
     }
 }
