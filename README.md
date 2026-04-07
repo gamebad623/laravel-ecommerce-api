@@ -63,6 +63,14 @@ This project simulates a real online store workflow with **customer and admin ro
 - Order status updates
 
 ---
+## 💳 Payment gateway
+### Current Payment Status
+✅ Paymob authentication
+✅ Paymob order creation
+✅ Payment key generation
+✅ Hosted payment iframe URL
+🟡 Webhook callback status update (in progress)
+
 
 ## 👨‍💻 Author
 **Saif Mohamed**
