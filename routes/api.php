@@ -45,5 +45,7 @@ Route::middleware(['auth:sanctum' , 'customer'])->group(function(){
 
     Route::post('/payment/pay/{order}' , [PaymentController::class, 'pay']);
 
+    Route::post('/payments/paymob/webhook', [PaymentController::class, 'webhook']);
+
 });
     
